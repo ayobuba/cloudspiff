@@ -1,0 +1,7 @@
+aws_region = "us-east-2"
+kubernetes_version = "1.14"
+aws_admin_public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQClm80TVWz5aVLqB15Guk9rZJtNbHvBkswZEbZe/nf44/SoH0ZXoCmpg8mSE+5mbe4ou2FG3/OZIKYYluyXXoKWApXQObS/TPrWsYzawWaC9PWsgrZC/hoffs/p46xy+Qxv3+zz/BW50PAM6d76L/GuY/bLZur6nrVD2FcNh2gPgnhSBw0UPaP+FMlfY3/X89eTxISPwFN9lVsarREJQ8dIkOMcMQFBaYj1mz0O4LJ7vgGx7ssOExwVUamRGGHpR9ZOl8FoLOOzCDXz/v1JhgR3cx43f0f9YcJJMYnRzE2pODbzfde8q7cDm0ld/sur99T+FR3WjlkP40s3CVsh6jySb8XxtzvhU2gYYdN3YJSG8D5oDQg6vtrT2I5CczhKv+wKLk2ajTJbjYo0J7apeWULYz23CGAfKTQOdjtIGYsbvnLadiuaKDHkQanp70hKrslTvxklhoa/YfRVykfj/ZXHC2bmH6DyQVhxqU2CbrJH/ee0UT4k2vReA17G1n2XrSJzIK/QjTrDCgZro9FCLS0yK/A7DZjsOzlRqWA9UiQr+pO8ssxGQmh5ZAIb/rF7E+ISNMTPOY7ji2K0NvcVvsjgB3MH4wPt6tCTDQYwzmw8L6QqejC2Lh5LWysP0UOysr71GWxbwmZ3AQlQZ36caPe7krHU8Dph36yVQkbc9tlIRw== ayobuba@live.com"
+eks_worker_group_1_instance_type = "t3.nano"
+eks_asg_max_size = "3"
+eks_asg_min_size = "1"
+eks_asg_desired_capacity = "1"
